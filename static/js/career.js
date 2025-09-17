@@ -34,7 +34,8 @@ const collegesData = [
     { name: 'Government Medical College', location: 'Delhi', courses: ['MBBS'], cutoff: 95 },
     { name: 'Government Commerce College', location: 'Bangalore', courses: ['B.Com', 'BBA'], cutoff: 75 },
     { name: 'Government Arts College', location: 'Chennai', courses: ['B.A.'], cutoff: 70 },
-    { name: 'Government Science College', location: 'Pune', courses: ['B.Sc'], cutoff: 80 }
+    { name: 'Government Science College', location: 'Pune', courses: ['B.Sc'], cutoff: 80 },
+    { name: 'Matoshri College Of Engineering', location: 'Nashik', courses: ['B.Tech'], cutoff: 85}
 ];
 
 const timelineEvents = [

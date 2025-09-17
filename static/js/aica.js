@@ -16,7 +16,9 @@
             input.value = '';
 
             setTimeout(() => {
-                const aiResponse = "AI: Wait we are out of Service Right Now  '" ;
+                const aiResponse = "Un Identified Data Requested:" ;
                 appendMessage(aiResponse, 'ai-message');
             }, 500);
+
+            
         }
